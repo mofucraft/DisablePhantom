@@ -1,0 +1,4 @@
+name: DisablePhantom
+version: '${project.version}'
+main: net.mofucraft.disablephantom.DisablePhantom
+api-version: 1.20
